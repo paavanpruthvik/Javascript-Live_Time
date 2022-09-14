@@ -1,0 +1,12 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    padding: 100px 50px 50px 50px;
+}
+body{
+    background-image: url(/image.jpg) ;
+    background-size: 1700px 1000px;
+    background-repeat: no-repeat ;
+}
